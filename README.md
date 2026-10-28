@@ -1,0 +1,2 @@
+# studysync
+Smart Student Planner
